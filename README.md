@@ -47,6 +47,8 @@
     Terdapat function "is_valid_binary" yang menerima parameter "input". <br>
     Menginisiasi variabel "binInput" dengan inputan biner dari user dan menjalankan method "strip()" untuk menghapus whitespace di awal dan akhir string <br>
     Lalu menjalankan function "is_valid_binary" dengan mengirim parameter "binInput" dan jika mengembalikan nilai `True` berarti valid jika mengembalikan nilai `False` berarti tidak valid. <br>
+    `Miro Link` : <br>
+    [Link Miro for Function "is_valid_binary" Flow Diagram](https://miro.com/app/board/uXjVIXEwcaY=/?share_link_id=138214322819)
     ### Function "is_valid_binary" Flow Diagram
 
 ![function-is_valid_binary-flow-diagram](./assets/Nomor_1_Function_Flow_Diagram.jpg)
