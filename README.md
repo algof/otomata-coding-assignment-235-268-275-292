@@ -1,3 +1,4 @@
+# Tugas W1 Otomata
 | Name           | NRP        | Kelas     |
 | ---            | ---        | ----------|
 | Algof Kristian Zega | 5025231235 | Otomata (E) |
