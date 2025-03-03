@@ -53,7 +53,6 @@
     ### Function "is_valid_binary" Flow Diagram
 
 ![function-is_valid_binary-flow-diagram](./assets/Nomor_1_Function_Flow_Diagram.jpg)
-<<<<<<< HEAD
 
 ## 2. Arithmetic Expression Checker
 
@@ -139,7 +138,4 @@
     [Link Miro for Function "is_valid_expression" Flow Diagram](https://miro.com/app/board/uXjVIXEwcaY=/?share_link_id=138214322819)
     ### Function "is_valid_expression" Flow Diagram
     
-    ![](./assets/Nomor_2_Function_Flow_Diagram.jpg)
-
-=======
->>>>>>> 4c9594ffa80cc604321e8bffcd55f99f6eada0b0
+    ![function-is_valid_expression-flow-diagram](./assets/Nomor_2_Function_Flow_Diagram.jpg)
